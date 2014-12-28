@@ -57,3 +57,5 @@ gem 'bootstrap-sass', '~> 3.1.1'
 # gem 'debugger', group: [:development, :test]
 
 gem 'devise'
+
+gem 'figaro', '1.0'
